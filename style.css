@@ -78,7 +78,8 @@ width: 100px;
 .image-container img{
     width: 350px;
     height: 200px;
-  border-radius: 20px;
+    border-radius: 20px;
+    margin-top: 40px;
 }
 
 .image-container img:hover{
