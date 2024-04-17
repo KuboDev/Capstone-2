@@ -40,10 +40,8 @@ margin-top: -50px;
     
 }
 .images-rest img{
-     margin-top: 5vh; /* Adjust as needed for spacing from top */
-    margin-right: -40vw;
-    position: absolute;
-    display: flex;
+position: absolute;
+display: flex;
 width: 100px;
 
 }
